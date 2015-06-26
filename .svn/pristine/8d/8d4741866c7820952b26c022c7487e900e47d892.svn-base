@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" x="177" y="64" text="Welcome" measuredWidth="70" measuredHeight="29">
+    <font size="12"/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="82" y="176" text="Travel" measuredWidth="48" measuredHeight="48" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="144" y="176" text="Food" measuredWidth="43" measuredHeight="43" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="204" y="174" text="Games" measuredWidth="52" measuredHeight="52" background="#000000" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="272" y="174" text="Contacts" measuredWidth="63" measuredHeight="63" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="82" y="236" text="Activities" measuredWidth="64" measuredHeight="64" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="160" y="240" text="Movies" measuredWidth="54" measuredHeight="54" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="232" y="241" text="Songs" measuredWidth="48" measuredHeight="48" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="204" y="320" text="Back" measuredWidth="45" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

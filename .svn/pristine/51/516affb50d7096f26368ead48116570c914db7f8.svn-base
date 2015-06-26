@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:TabbedPane" x="192" y="40" width="281" height="449" text="Tab One,Tab Two,Tab Three" measuredWidth="281" measuredHeight="449" selection="0"/>
+  <widgets xsi:type="model:List" x="208" y="196" width="249" height="277" text="Item One&#xA;Item Two&#xA;Item Three&#xA;|Multiple&#xA;Selection&#xA;|Works like this&#xA;For List, Table and Tree" measuredWidth="249" measuredHeight="277" selection="" border="false">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" x="366" y="156" width="89" text="Text field" measuredWidth="89" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="216" y="152" text="Enter keyword" measuredWidth="129" measuredHeight="29">
+    <font size="13" bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

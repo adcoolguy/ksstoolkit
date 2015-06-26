@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:TabbedPane" x="192" y="40" width="281" height="449" text="Tab One,Tab Two,Tab Three" measuredWidth="281" measuredHeight="449" selection="1"/>
+  <widgets xsi:type="model:TextField" x="366" y="156" width="89" text="Text field" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="216" y="152" text="Enter keyword" measuredWidth="122" measuredHeight="31">
+    <font size="13" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Tooltip" x="304" y="208" width="110" height="65" text="Please Ok to load" measuredWidth="110" measuredHeight="65">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Tooltip" x="304" y="288" width="110" height="65" text="Please C to clear" measuredWidth="110" measuredHeight="65">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Tooltip" x="304" y="368" width="110" height="73" text="Please Key Up for zoom out and Key Down for zoom in" measuredWidth="110" measuredHeight="73">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

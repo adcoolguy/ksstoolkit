@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="2" measuredWidth="586" measuredHeight="305" dimmed="true">
+    <screen xsi:type="model:Screen" href="backrground1.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="1" x="16" y="200" measuredWidth="39" measuredHeight="61" src="../../../../img/java/zombie-walk-right-2.png"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

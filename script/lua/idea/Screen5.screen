@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" x="177" y="64" text="Welcome" measuredWidth="70" measuredHeight="29">
+    <font size="12"/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="82" y="176" text="Badminton" measuredWidth="75" measuredHeight="75" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="168" y="174" text="Tennis" measuredWidth="51" measuredHeight="51" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="232" y="176" text="Soccer" measuredWidth="51" measuredHeight="51" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="304" y="177" text="Video" measuredWidth="46" measuredHeight="46" border="solid-rounded">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="192" y="264" text="Back" measuredWidth="45" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

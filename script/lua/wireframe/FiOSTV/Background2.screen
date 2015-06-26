@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" measuredWidth="704" measuredHeight="480" src="/resource/KSSToolkit/img/lua/SampleFiOSBackground.png"/>
+  <widgets xsi:type="model:Image" y="26" measuredWidth="352" measuredHeight="428" src="/resource/KSSToolkit/img/lua/SampleFiOSLeftPanel.png"/>
+  <widgets xsi:type="model:Image" x="352" y="128" measuredWidth="329" measuredHeight="319" src="/resource/KSSToolkit/img/lua/SampleFiOSRightFooter.png"/>
+  <widgets xsi:type="model:Image" x="352" y="27" measuredWidth="329" measuredHeight="56" src="/resource/KSSToolkit/img/lua/SCIToolbar.png"/>
+  <widgets xsi:type="model:Image" x="352" y="82" measuredWidth="329" measuredHeight="46" src="/resource/KSSToolkit/img/lua/SampleFiOSRightNaviHeader_MyMap.png"/>
+  <widgets xsi:type="model:Image" x="352" y="126" measuredWidth="329" measuredHeight="47" src="/resource/KSSToolkit/img/lua/SampleFiOSRightContHeader_MyMap.png"/>
+  <widgets xsi:type="model:Image" x="360" y="336" measuredWidth="314" measuredHeight="103" src="/resource/KSSToolkit/img/lua/SampleFiOSRightNaviInfo_MyMap.png"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

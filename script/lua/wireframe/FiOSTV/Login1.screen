@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" measuredWidth="704" measuredHeight="480" customId="x" src="../../../../img/lua/SampleFiOSBackground.png"/>
+  <widgets xsi:type="model:Image" x="352" y="124" measuredWidth="329" measuredHeight="319" customId="x" src="../../../../img/lua/SampleFiOSRightFooter.png"/>
+  <widgets xsi:type="model:Image" x="352" y="127" measuredWidth="329" measuredHeight="47" customId="x" src="../../../../img/lua/SampleFiOSRightContHeader_MyCalendar.png"/>
+  <widgets xsi:type="model:Image" x="352" y="81" measuredWidth="329" measuredHeight="46" customId="x" src="../../../../img/lua/SampleFiOSRightNaviHeader_MyCalendar.png"/>
+  <widgets xsi:type="model:Image" x="352" y="174" measuredWidth="329" measuredHeight="179" customId="x" src="../../../../img/lua/List4.png"/>
+  <widgets xsi:type="model:Image" x="360" y="358" measuredWidth="315" measuredHeight="36" src="../../../../img/lua/SampleFiOSProfileId.png"/>
+  <widgets xsi:type="model:Image" x="360" y="399" measuredWidth="315" measuredHeight="36" src="../../../../img/lua/SampleFiOSPasscode.png" grayscale="true"/>
+  <widgets xsi:type="model:Panel" x="358" y="358" width="320" height="36" measuredWidth="320" measuredHeight="36" alpha="0" foreground="#ff9900" border="solid-rounded"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

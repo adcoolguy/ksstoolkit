@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore" xmlns:o="http://wireframesketcher.com/1.0/model/overrides">
+  <widgets xsi:type="model:Master" id="2" measuredWidth="586" measuredHeight="305" dimmed="true">
+    <screen xsi:type="model:Screen" href="backrground1.screen#/"/>
+    <overrides>
+      <widgetChanges xsi:type="o:Insert" newIndex="1">
+        <object xsi:type="model:Master" dimmed="true">
+          <screen xsi:type="model:Screen" href="backrground1.screen#/"/>
+        </object>
+      </widgetChanges>
+      <widgetChanges xsi:type="o:Delete" ref="5"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Image" id="1" x="488" y="222" measuredWidth="46" measuredHeight="58" src="../../../../img/java/zombie-walk-right-1.png"/>
+  <widgets xsi:type="model:Image" id="3" x="10" y="10"/>
+  <widgets xsi:type="model:Image" id="5" x="536" y="222" measuredWidth="36" measuredHeight="59" src="../../../../img/java/zombie-walk-left-2.png"/>
+  <widgets xsi:type="model:WidgetGroup" id="8" x="512" y="208" measuredWidth="44" measuredHeight="33">
+    <widgets xsi:type="model:WidgetGroup" id="7" width="44" height="33" measuredWidth="44" measuredHeight="33">
+      <widgets xsi:type="model:Image" id="6" width="44" height="33" measuredWidth="44" measuredHeight="33" src="../../../../img/java/splash-bloods.png"/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" measuredWidth="704" measuredHeight="480" src="/resource/KSSToolkit/img/lua/BackgroundBlue.png"/>
+  <widgets xsi:type="model:Image" x="36" y="162" width="201" height="145" measuredWidth="201" measuredHeight="145" src="/resource/KSSToolkit/img/lua/HPList.PNG" grayscale="true"/>
+  <widgets xsi:type="model:Image" x="248" y="162" width="201" height="145" measuredWidth="201" measuredHeight="145" src="/resource/KSSToolkit/img/lua/HPList.PNG" grayscale="true"/>
+  <widgets xsi:type="model:Image" x="460" y="162" width="201" height="145" measuredWidth="201" measuredHeight="145" src="/resource/KSSToolkit/img/lua/HPList.PNG"/>
+  <widgets xsi:type="model:Label" x="236" y="72" width="245" text="Horizontal List Demo" measuredWidth="245" measuredHeight="38" foreground="#ffff00">
+    <font size="16"/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="272" y="174" width="153" height="83" text="Culture with a DeLorean parked right inside the shop." measuredWidth="153" measuredHeight="83" foreground="#999999">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="480" y="172" width="153" height="83" text="Zombie Dice is one of a new breed of board games that was released almost simultaneously in real life and in digital form as an app for the iPhone/iPod touch." measuredWidth="153" measuredHeight="83" foreground="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="62" y="174" width="153" height="83" text="Bad_CRC1945 writes &quot;The good news: Not one, but two companies are selling jet packs. The bad news: The tech has a long way to go." measuredWidth="153" measuredHeight="83" foreground="#999999">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

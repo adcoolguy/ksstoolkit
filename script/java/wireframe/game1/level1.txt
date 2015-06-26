@@ -1,0 +1,6 @@
+Level 1 background and zombie images are taken from 
+http://footage.shutterstock.com/clip-1449013-stock-footage-loopable-halloween-animation-with-a-flying-witch-zombies-and-bats.html
+
+A note is that all the sprites have to be in the power of 2 e.g. 64 x 64, 128 x 128, 256 x 256 ... 
+Otherwise libgdx will complain and will not split and render them!
+  

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" measuredWidth="704" measuredHeight="480" dimmed="true">
+    <screen href="Background.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Image" x="352" y="174" measuredWidth="329" measuredHeight="251" src="../../../img/lua/List.png"/>
+  <widgets xsi:type="model:Image" x="354" y="377" width="325" height="45" measuredWidth="325" measuredHeight="45" src="../../../img/lua/ListItemSelected.png"/>
+  <widgets xsi:type="model:TextArea" x="362" y="183" width="311" height="33" text="If you are interested in developing widgets for FiOS TV, please submit your name and email address below." measuredWidth="311" measuredHeight="33" customId="1" customData="bgColor='0xffffffff',fgColor='0xff990000'">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" x="362" y="233" width="311" height="33" text="James Tan&#xD;&#xA;jamestanms@hotmail.com" measuredWidth="311" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" x="362" y="284" width="311" height="33" text="Textarea 3" measuredWidth="311" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" x="362" y="334" width="311" height="33" text="Textarea 4" measuredWidth="311" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" x="362" y="383" width="311" height="33" text="Textarea 5" measuredWidth="311" measuredHeight="33">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

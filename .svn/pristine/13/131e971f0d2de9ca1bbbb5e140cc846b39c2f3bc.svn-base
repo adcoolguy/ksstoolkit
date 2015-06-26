@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" x="200" y="80" measuredWidth="321" measuredHeight="80" src="../../../../img/lua/Login12.PNG"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

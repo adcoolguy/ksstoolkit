@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" x="120" y="120" text="5000" measuredWidth="46" measuredHeight="23" textAlignment="Center" icon="image (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="44" y="112" text="Sound1Play" measuredWidth="65" measuredHeight="58" customId="z,sound" customData="1,yes" textAlignment="Center" icon="image (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="55" y="40" text="Button1Click" measuredWidth="71" measuredHeight="58" customId="z" customData="1" textAlignment="Center" icon="image (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="55" y="176" text="WS1Get" measuredWidth="44" measuredHeight="58" textAlignment="Center" icon="image (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="120" y="184" text="http://www.google.com/calendar/feeds/userID/private-magicCookie/full" measuredWidth="410" measuredHeight="23" textAlignment="Center" icon="image (small)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="55" y="240" text="Data1Sort" measuredWidth="54" measuredHeight="58" textAlignment="Center" icon="image (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="55" y="304" text="Text1Set" measuredWidth="47" measuredHeight="58" textAlignment="Center" icon="image (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="120" y="248" text="asc" measuredWidth="39" measuredHeight="23" textAlignment="Center" icon="image (small)">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

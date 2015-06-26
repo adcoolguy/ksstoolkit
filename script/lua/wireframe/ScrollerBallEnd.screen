@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" x="352" y="174" measuredWidth="329" measuredHeight="250" customId="x" src="../../../img/lua/List.png"/>
+  <widgets xsi:type="model:Image" x="656" y="177" width="16" height="242" measuredWidth="16" measuredHeight="242" customId="bg" src="../../../img/lua/ScrollerBlackBackground3.png"/>
+  <widgets xsi:type="model:Image" x="658" y="400" measuredWidth="13" measuredHeight="13" src="../../../img/lua/ScrollerBallButton2.png"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Rectangle" x="46" y="156" width="339" height="213" measuredWidth="339"
+      measuredHeight="213" customId="z" customData="1">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="89" y="382" width="60" height="33" text="Button1"
+      measuredWidth="60" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Note" x="195" y="382" width="33" height="33" text="WS1"
+      measuredWidth="33" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Note" x="236" y="382" width="40" height="33" text="Data1"
+      measuredWidth="40" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Note" x="338" y="90" width="47" height="33" text="Sound1"
+      measuredWidth="47" measuredHeight="33">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" x="46" y="96" text="Text field" measuredWidth="55"
+      measuredHeight="21">
+    <font size="8"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="495" y="295" text="Label" measuredWidth="30"
+      measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="412" y="333" text="Title" measuredWidth="87"
+      measuredHeight="60">
+    <font size="32"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
